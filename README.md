@@ -7,6 +7,13 @@ _Entendendo o que é **git**,
 Aprendendo sobre **repositório**,
 Trabalhando com **branches**._
 
+## Modulos 2
+* Comecando com git.
+* Aprendendo sobre branches.
+* Git Avançado.
+* Usando github de forma profissional.
+
+
 ### Rede Social: 
 [Instagram](https://intagram.com/sujeitoprogramador)
 
