@@ -14,8 +14,8 @@ Trabalhando com **branches**._
 * Usando github de forma profissional.
 
 1. Introdução as funções.
-    1. O que é git?
-    2. Instalando git na maquina.
+        1. O que é git?
+        2. Instalando git na maquina.
 2. Inserindo branches.
 3. Elaborando projetos.
 
