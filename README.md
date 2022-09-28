@@ -27,4 +27,4 @@ Trabalhando com **branches**._
 
 >Este é um blockquote, usado para destacar uma area.
 >
->Segudna area destacada.
+>Segue area destacada.
