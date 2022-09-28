@@ -1,3 +1,4 @@
+![Logo do git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXqDKyfbUJ3bsDc5tPovwsAHicZqq5HIMDYPvmRzpdmg&s)
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai dominar todo o **Git** e **Github** _do zero ao profissional._
 
@@ -6,3 +7,7 @@ _Entendendo o que é **git**,
 Aprendendo sobre **repositório**,
 Trabalhando com **branches**._
 
+### Rede Social: 
+[Instagram](https://intagram.com/sujeitoprogramador)
+
+[Youtube](https://youtube.com/sujeitoprogramador)
