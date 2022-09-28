@@ -13,6 +13,11 @@ Trabalhando com **branches**._
 * Git Avançado.
 * Usando github de forma profissional.
 
+1. Introdução as funções.
+2. Inserindo branches.
+3. Elaborando projetos.
+
+
 
 ### Rede Social: 
 [Instagram](https://intagram.com/sujeitoprogramador)
