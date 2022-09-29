@@ -36,11 +36,11 @@ npm start
 '''
 
 **Exemplo de uso do script:**
-"""js
+'''js
 function showName(name){
     return 'Bem vindo: ' + name;
 }
-"""
+'''
 
 *Uso do componente HTML:*
 """html
@@ -48,11 +48,14 @@ function showName(name){
     Titulo do projeto
     <spam>Curso git<spam>
 </h1>
+"""
 
 **CSS padrão do projeto:**
-"""css
- .titulo{
-     background-color: #FFF
+'''CSS
+  .titulo{
+    background-color: #FFF
      color: #FF0000
 }
-"""
+'''
+
+    
