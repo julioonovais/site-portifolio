@@ -63,3 +63,10 @@ function showName(name){
 }
 '''
 
+Propriedades | Descrição
+-----------  | --------
+name | Para informar o nome do usuario
+siza | Para definir o tamanho do canpo
+background | Cor de fundo da área em Hex
+onPress | Função chamada quando clicar no botão.
+
