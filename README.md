@@ -34,7 +34,7 @@ Trabalhando com **branches**._
 >
 >Segue area destacada.
 
-###Comando para rodar o projeto:
+### Comando para rodar o projeto:
 
 '''
 npm start
